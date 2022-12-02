@@ -14,9 +14,9 @@ body {
 
 h1 {
     position: absolute;
-    font-size: 44px;
+    font-size: 30px;
     color: fuchsia;
-    left: 52%;
+    left: 50%;
     top: 18%;
     transform: translate(-50%);
 }
@@ -45,7 +45,7 @@ h1 {
 
 .move.left{
     left: 0;
-    background: url("pickles.jpg");
+    background: url("porsche-taycan.jpg");
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -58,7 +58,7 @@ h1 {
 }
 .move.right{
     right: 0;
-    background: url("egenaito.jpeg");
+    background: url("porsche-911.jpg");
     background-repeat: no-repeat;
     background-size: cover;
 }
