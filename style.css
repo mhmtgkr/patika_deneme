@@ -9,14 +9,14 @@
  
 body {
     font-family: "Roboto", sans-serif;
-    height: 99vh;   
+    height: 94vh;   
 }
 
 h1 {
     position: absolute;
-    font-size: 45px;
+    font-size: 44px;
     color: fuchsia;
-    left: 50%;
+    left: 52%;
     top: 18%;
     transform: translate(-50%);
 }
