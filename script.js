@@ -1,3 +1,4 @@
+/*
 let left =document.getElementById("left"),
 right =document.getElementById("right"),
 container =document.getElementById("container");
@@ -17,3 +18,4 @@ right.addEventListener("mouseenter",()=>{
 right.addEventListener("mouseleave",()=>{
     container.classList.remove("hover-right")
 })
+*/
