@@ -1,3 +1,3 @@
 # Patika Git dersleri
 
-# Github dosya yükleme denemesi
+# Github dosya yükleme denemesi x
